@@ -1,0 +1,8 @@
+npx create-react-app my-portfolio-try
+//to create new project
+
+code my-portfolio-try
+//to open code in visual studio code
+
+npm start
+//To start server
